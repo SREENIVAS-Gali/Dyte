@@ -1,16 +1,15 @@
-/* Basic styling for the search container */
+
 .search-container {
     margin: 20px;
   }
-  
-  /* Style the search input and button */
+
   #searchInput {
     padding: 8px;
     width: 200px;
     margin-right: 10px;
   }
   
-  /* Style the results container */
+ 
   #resultsContainer {
     margin: 20px;
     border: 1px solid #ccc;
@@ -18,13 +17,13 @@
     max-height: 300px;
     overflow-y: auto;
   }
-  /* Reset default margin and padding */
+ 
 body, h1, h2, h3, p, ul, li {
   margin: 0;
   padding: 0;
 }
 
-/* Basic styles */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
