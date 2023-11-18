@@ -1,0 +1,21 @@
+/* Basic styling for the search container */
+.search-container {
+    margin: 20px;
+  }
+  
+  /* Style the search input and button */
+  #searchInput {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  /* Style the results container */
+  #resultsContainer {
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
