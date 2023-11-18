@@ -23,7 +23,7 @@ const logs = [
       "parentResourceId": "client-1234"
     }
   },
-  // Add more log objects...
+
 ];
 function searchLogs() {
   const query = document.getElementById("searchInput").value.toLowerCase();
